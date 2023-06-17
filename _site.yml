@@ -15,5 +15,6 @@ navbar:
 #add pre built theams
 output:
   html_document:
-    theme: flatly
+     theme: flatly
+  
   
