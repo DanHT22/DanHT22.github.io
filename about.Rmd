@@ -1,0 +1,25 @@
+---
+title: "Untitled"
+author: "Daniela Heredia"
+date: "2023-06-17"
+output: html_document
+---
+
+[Create your about section]
+
+
+
+```{r}
+library(palmerpenguins)
+library(ggplot2)
+penguins <- penguins
+```
+ 
+ 
+```{r}
+summary(penguins)
+```
+
+
+
+ 

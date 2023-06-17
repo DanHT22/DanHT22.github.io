@@ -1,0 +1,12 @@
+name: "Dany's website"
+navbar:
+  title: "Dany HT"
+  left:
+    - text: "Home"
+      href: index.html 
+    - text: "About"
+      href: about.html
+    - text: "Research"
+      href: Research.html
+
+output_dir: 'docs'
