@@ -1,3 +1,9 @@
-##Welcome to my personal web pages
+# Prueba de página web con R y Markdown
 
-This is my repository for my personal web pages. Acces the webpages [here](DanHT22.github.io.)
+Repositorio prueba para crear una página web de tipo Blog implementando R y Markdown.
+
+---
+
+Status: en desarrollo
+---
+Daniela H. | 2023
